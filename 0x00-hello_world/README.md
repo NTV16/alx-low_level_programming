@@ -1,0 +1,3 @@
+#!/bin/bash
+Readme file containing scripts for each question
+0-Write a script that runs a C file through the preprocessor and save the result into another file.
