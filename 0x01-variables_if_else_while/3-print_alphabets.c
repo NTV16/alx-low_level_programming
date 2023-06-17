@@ -10,17 +10,17 @@
 int main(void)
 {
 	char c;
+	char t;
 
 	for (c = 'a'; c <= 'z'; c++)
 	{
 		putchar(c);
 	}
-
-	char t;
-
 	for (t = 'A'; t <= 'Z'; t++)
 	{
 		putchar(t);
 	}
+
+	putchar('\n');
 	return (0);
 }
